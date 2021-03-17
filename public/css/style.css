@@ -1,0 +1,56 @@
+body{
+    padding: 0px;
+    margin: 0px;
+
+}
+                            /* HEADER */
+.header_style{
+    height: 15vh;
+    background-color: rgb(251, 215, 168);
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.footer_style{
+    height: 10vh;
+    background-color: rgb(251, 215, 168);
+
+    bottom: 0;
+}
+
+.logo{
+    font-size:2vw;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.image_accueil{
+    width: 100%;
+}
+                                        /* BAR NAV */
+.bar_nav{
+    display: flex;
+    font-size: 1.2vw;
+    margin-left: 40%;
+    margin-top: 2%;
+
+}
+
+.nav_link{
+ color:#812205;
+ margin: 2px;
+ text-decoration: none
+}
+
+.nav_link:hover {
+    color: #812205;
+    text-decoration: underline overline #8122055e;
+  }
+
+
+
+
+
+
+
